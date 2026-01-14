@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+my_pk_pkg/__init__.py
+my_pk_pkg/my_first_node.py
+my_pk_pkg.egg-info/PKG-INFO
+my_pk_pkg.egg-info/SOURCES.txt
+my_pk_pkg.egg-info/dependency_links.txt
+my_pk_pkg.egg-info/entry_points.txt
+my_pk_pkg.egg-info/requires.txt
+my_pk_pkg.egg-info/top_level.txt
+my_pk_pkg.egg-info/zip-safe
+resource/my_pk_pkg
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
